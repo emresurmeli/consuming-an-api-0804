@@ -2,7 +2,8 @@
 
 ## How to get started
 
-First make sure you have your .env configured
+First make sure you have your .env configured, check the `.env.sample` for what variables
+you will need:
 ```
 touch .env
 ```
